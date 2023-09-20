@@ -1,0 +1,6 @@
+<div class="tela">
+    <app-btn-home *ngIf="router.url !== '/'" routerLink="/" class="home-icon"></app-btn-home>
+    <div class="container">
+        <router-outlet></router-outlet>
+    </div>    
+</div>

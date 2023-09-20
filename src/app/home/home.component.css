@@ -1,0 +1,19 @@
+img{
+    width: 40%;
+}
+
+.container{
+    gap: 1.5rem;
+}
+
+footer{
+    position: absolute;
+    font-size: .8rem;
+    bottom: 0;
+    padding: .6rem;
+}
+a{
+    text-decoration: none;
+    font-weight: 600;
+    color: #080808;
+}

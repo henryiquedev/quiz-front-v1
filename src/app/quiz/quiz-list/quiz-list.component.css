@@ -1,0 +1,14 @@
+table{
+    width: 380px;
+
+}
+td{
+    width: 50%;
+}
+
+.container{
+    justify-content: start;
+    max-width: 70vh;
+    overflow-y: auto;
+    margin: .8rem 0;
+}

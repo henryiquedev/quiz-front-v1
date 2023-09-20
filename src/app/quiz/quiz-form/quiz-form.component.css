@@ -1,0 +1,19 @@
+.alert{
+    margin: .8rem 0;
+}
+form{
+    width: 380px;
+}
+.form2 input{
+    margin-bottom: .5em;
+}
+
+.correct-input{
+    background-color: #a6d5b66e;
+    color: #055105b4;
+}
+
+.incorrect-input{
+    background-color: #d5a6a66e;
+    color: #510508b9;
+}
