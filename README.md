@@ -1,9 +1,19 @@
 # QuizFrontV1
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 16.1.3.
+Pequeno jogo Quiz de perguntas e respostas usando Angular CLI: 16
+This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 16.1.3. 
+Node: 18.12.1 
+Package Manager: npm 9.3.0
+OS: linux x64
+Typescript: 5.1.6
+Rxjs: 7.8.1
+Angular: 16.2.5
+... animations, common, compiler, compiler-cli, core, forms
+... localize, platform-browser, platform-browser-dynamic, router
+
 
 ## Development server
-
+Install ng-module: np install --force
 Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The application will automatically reload if you change any of the source files.
 
 ## Code scaffolding
