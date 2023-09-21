@@ -3,7 +3,7 @@
 Small Quiz game of questions and answers, in conclusion using the Angular CLI: 16
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 16.1.3. 
 
-## Setup
+Setup
 Node: 18.12.1 - to install <a>https://nodejs.org/en/blog/release/v18.12.1</a>
 Package Manager: npm 9.3.0 - to install <a>https://docs.npmjs.com/cli/v9/configuring-npm/install</a>
 OS: Linux x64, Windows or MacOs
