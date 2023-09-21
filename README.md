@@ -13,6 +13,8 @@ Angular: 16.2.5 - <a>https://angular.io/cli</a>
 ... animations, common, compiler, compiler-cli, core, forms
 ... localize, platform-browser, platform-browser-dynamic, router
 
+Para clonar: git@github.com:henryiquedev/quiz-front-v1.git
+
 ## Development server
 Install node_modules: npm install --force
 Run `ng serve --open` or `npm start` for a dev server. Navigate to `http://localhost:4200/`. The application will automatically reload if you change any of the source files.
