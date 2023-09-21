@@ -1,6 +1,6 @@
 # QuizFrontV1
 
-Pequeno jogo Quiz de perguntas e respostas, em concluão usando Angular CLI: 16
+Pequeno jogo Quiz de perguntas e respostas, em conclusão usando Angular CLI: 16
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 16.1.3. 
 Node: 18.12.1 
 Package Manager: npm 9.3.0
